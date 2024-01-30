@@ -76,9 +76,9 @@ while($i -lt $pi.length){
     $myString = $pi[$i].trimend("-Pi")
     $theIndex = $myString.IndexOf('-')
     $myString = $myString.Remove($theIndex, 1)
-    $myString = "PI-" + $mystring + "," + "172.25.13." + $ip[$i]
+    $myString = "PI-" + $mystring + "," + "172.25.45." + $ip[$i]
     
-    $myString >> PiIPSysListSL1.txt
+    $myString >> PiIPSysListSL3.txt
     $i++
 
 }

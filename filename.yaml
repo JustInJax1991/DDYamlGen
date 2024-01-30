@@ -1,0 +1,3366 @@
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b01
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b21
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b22
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b23
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b24
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 1
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b25
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b02
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b26
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b27
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b28
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: fairway4
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b29
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b30
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b31
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 2
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b32
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b03
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b33
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b34
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b35
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b36
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b37
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 3
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b38
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b04
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b39
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b40
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b41
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b42
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b43
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 4
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b44
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 5
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b05
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 5
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b45
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 5
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b46
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 5
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b47
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b06
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b48
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b49
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b50
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: fairway4
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b51
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b52
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b19
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 6
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b53
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 7
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b07
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 7
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b54
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 7
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b55
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 7
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b56
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b08
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b57
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b58
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b59
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b60
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b61
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 8
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b62
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b09
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b63
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b64
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b65
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b66
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b20
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 9
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b67
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b10
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b68
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b69
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b70
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b72
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b73
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 10
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b74
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b11
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b75
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b76
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b114
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b78
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b79
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 11
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b80
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 12
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b12
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 12
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b81
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 12
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b82
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 12
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b83
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b13
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b84
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b85
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b86
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b115
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 13
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b88
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b14
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b89
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b90
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b91
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: fairway4
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b92
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b93
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b94
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 14
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b95
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b15
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b96
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b97
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b98
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b99
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 15
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b100
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b16
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b146
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b101
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b102
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b103
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 16
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b104
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 17
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b17
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 17
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b105
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 17
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b106
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 17
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b107
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: tee1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b18
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: fairway1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b108
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: fairway2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b109
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: fairway3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b110
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: fairway4
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b147
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: green1
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b111
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: green2
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b112
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - tournament: R2024004
+  - location: SL2
+  - hole: 18
+  - bolt6tfg: green3
+  - ip: 172.25.23.14
+  - rack: case
+  - nightly: false
+  - hardware: camera
+  - type: physical
+  - env: prod
+  - name: sl1-b113
+  - case: none
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0226
+  - name: pi-sc0226
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 1
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0240
+  - name: pi-sc0240
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 1
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0248
+  - name: pi-sc0248
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 1
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0256
+  - name: pi-sc0256
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 1
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0259
+  - name: pi-sc0259
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 1
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0260
+  - name: pi-sc0260
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0265
+  - name: pi-sc0265
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0268
+  - name: pi-sc0268
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0270
+  - name: pi-sc0270
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0271
+  - name: pi-sc0271
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0273
+  - name: pi-sc0273
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 2
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0274
+  - name: pi-sc0274
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0275
+  - name: pi-sc0275
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0276
+  - name: pi-sc0276
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0277
+  - name: pi-sc0277
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0278
+  - name: pi-sc0278
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0279
+  - name: pi-sc0279
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 3
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0280
+  - name: pi-sc0280
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0281
+  - name: pi-sc0281
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0282
+  - name: pi-sc0282
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0284
+  - name: pi-sc0284
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0285
+  - name: pi-sc0285
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0286
+  - name: pi-sc0286
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 4
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0287
+  - name: pi-sc0287
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 5
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0290
+  - name: pi-sc0290
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 5
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0291
+  - name: pi-sc0291
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 5
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0292
+  - name: pi-sc0292
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 5
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0293
+  - name: pi-sc0293
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0294
+  - name: pi-sc0294
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0295
+  - name: pi-sc0295
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0296
+  - name: pi-sc0296
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0297
+  - name: pi-sc0297
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0298
+  - name: pi-sc0298
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 6
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0299
+  - name: pi-sc0299
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 7
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0300
+  - name: pi-sc0300
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 7
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0301
+  - name: pi-sc0301
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 7
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0302
+  - name: pi-sc0302
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 7
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0303
+  - name: pi-sc0303
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 8
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0304
+  - name: pi-sc0304
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 8
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0305
+  - name: pi-sc0305
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 8
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0306
+  - name: pi-sc0306
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 8
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0307
+  - name: pi-sc0307
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 8
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0308
+  - name: pi-sc0308
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 9
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0309
+  - name: pi-sc0309
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 9
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0310
+  - name: pi-sc0310
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 9
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0311
+  - name: pi-sc0311
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 9
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0312
+  - name: pi-sc0312
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 9
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0313
+  - name: pi-sc0313
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0314
+  - name: pi-sc0314
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0315
+  - name: pi-sc0315
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0316
+  - name: pi-sc0316
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0317
+  - name: pi-sc0317
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0318
+  - name: pi-sc0318
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 10
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0319
+  - name: pi-sc0319
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 11
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0320
+  - name: pi-sc0320
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 11
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0321
+  - name: pi-sc0321
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 11
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0322
+  - name: pi-sc0322
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 11
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0323
+  - name: pi-sc0323
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 11
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0324
+  - name: pi-sc0324
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 12
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0325
+  - name: pi-sc0325
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 12
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0326
+  - name: pi-sc0326
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 12
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0327
+  - name: pi-sc0327
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 12
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0328
+  - name: pi-sc0328
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 13
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0329
+  - name: pi-sc0329
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 13
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0330
+  - name: pi-sc0330
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 13
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0331
+  - name: pi-sc0331
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 13
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0332
+  - name: pi-sc0332
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 13
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0333
+  - name: pi-sc0333
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 14
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0334
+  - name: pi-sc0334
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 14
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0335
+  - name: pi-sc0335
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 14
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0336
+  - name: pi-sc0336
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 14
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0337
+  - name: pi-sc0337
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 14
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0338
+  - name: pi-sc0338
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 15
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0339
+  - name: pi-sc0339
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 15
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0340
+  - name: pi-sc0340
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 15
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0341
+  - name: pi-sc0341
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 15
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0342
+  - name: pi-sc0342
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 15
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0343
+  - name: pi-sc0343
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 16
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0344
+  - name: pi-sc0344
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 16
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0345
+  - name: pi-sc0345
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 16
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0346
+  - name: pi-sc0346
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 16
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0347
+  - name: pi-sc0347
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 16
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0348
+  - name: pi-sc0348
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 17
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0349
+  - name: pi-sc0349
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 17
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0350
+  - name: pi-sc0350
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 17
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0351
+  - name: pi-sc0351
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 17
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0352
+  - name: pi-sc0352
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: tee1
+  - hole: 18
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0353
+  - name: pi-sc0353
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway1
+  - hole: 18
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0354
+  - name: pi-sc0354
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: fairway2
+  - hole: 18
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0355
+  - name: pi-sc0355
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green1
+  - hole: 18
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0356
+  - name: pi-sc0356
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green2
+  - hole: 18
+- host: 172.25.23.14
+  timeout: 1.0
+  tags:
+  - ip: 172.25.23.14
+  - env: prod
+  - type: physical
+  - rack: case
+  - hardware: pi
+  - network: true
+  - case: pi-sc0357
+  - name: pi-sc0357
+  - os: none
+  - priority: none
+  - grn_server: false
+  - location: SL2
+  - tournament: R2024004
+  - bolt6tfg: green3
+  - hole: 18
