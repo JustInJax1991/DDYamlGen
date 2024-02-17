@@ -1,76 +1,53 @@
 import yaml
 import pandas as pd
-import socket
+import re
+import sys
 
 """
 Lets build the Bolt6 camera portion of the yaml first
 """
+sheetname = sys.argv[1]
+tournamentID = sys.argv[2]
+truck = sys.argv[3]
 
-excel = pd.read_excel(r".\CamAssign.xlsx", sheet_name="American Express", usecols='B:K', nrows=19, header=1) 
+def getSwtichIP(piIp):
+    splitIp = piIp.split('.')
+    thirdoctet = int(splitIp[2]) - 1
+    splitIp[2] = str(thirdoctet)
+    return '.'.join(splitIp)
 
-data_top = excel.columns
-data_missing = excel.isna()
-yamltemplate = ''''''
-tournamentID = 'r2024005'
-truck = 'sl1'
-
-i = 0
-
-
-power_excel = pd.read_excel(r".\CamAssign.xlsx", sheet_name="American Express", usecols='B:K', nrows=18, header=22) 
+power_excel = pd.read_excel(r".\CamAssign.xlsx", sheet_name=sheetname, usecols='B:K', nrows=18, header=22) 
 
 data_top = power_excel.columns
 data_missing = power_excel.isna()
+devices = ""
 
 i = 0
 
 while(i < 18):
     k = 0
     for x in power_excel.iloc[i]:
-        
-        if(not(data_missing.iloc[i][k])):
+        caseNum = re.search("\d?\d\d\d",str(x))
+        if(not(data_missing.iloc[i][k]) and (caseNum)):
             
-            print("###################################")
-            print("Hole: " + str(i + 1))
-            print("Power: " + str(x))
-            print("Location: " + str(data_top[k]))
-            casetemp = str(x)
-            hole = str(i + 1)
-            caseName = 'PI-SC0' + casetemp[0:3]
-            with open (r"D:\Users\JustinOdel\Development\PowerShell\InTest\DataDogYaml\PiIPSysListSL1.txt",'r') as pilist:
-                lines = pilist.readlines()
+            caseName = 'SC0' + caseNum.group()
+            picase = 'PI-' + caseName
+            with open(f"PiIPSysList{truck}.txt", 'r') as slist:
+                lines = slist.readlines()
                 for line in lines:
-                    if line.find(caseName) != -1:
+                    if line.find(picase) != -1:
                         caseLine = lines.index(line)
-            caseIp = (lines[caseLine])[10:-2]
-            holeLocation = str(data_top[k])
-            if holeLocation == 'tee':
-                holeLocaiton += '1'
-            yamltemplate+='''- community_string: public
-  port: 161
-  retries: 1
-  timeout: 1
-  snmp_version: 2
-  ip_address: {0}
-  tags:
-  - ip:{0}
-  - env:prod
-  - type:physical
-  - rack:case
-  - hardware:switch
-  - network:True
-  - case:{1}
-  - name:{1}
-  - os:none
-  - priority:none
-  - grn_server:False
-  - location:{2}
-  - tournament:{3}
-  - bolt6tfg:{4}
-  - hole:{5}\n'''.format(caseIp,caseName,truck,tournamentID,holeLocation,hole)
+                sLocation = str(data_top[k]).lower()
+                if 'tee' in sLocation:
+                        sLocation += '1'
+            caseIp = (lines[caseLine])[10:-1]
+            switchIp = getSwtichIP(caseIp)
+            switchcase = caseName.lower()
+            hole = i + 1
+            myobj = f"\n- community_string: public\n  port: 161\n  retries: 1\n  timeout: 1\n  snmp_version: 2\n  ip_address: {switchIp}\n  timeout: 1.0\n  tags:\n  - ip:{switchIp}\n  - env:prod\n  - type:physical\n  - rack:case\n  - hardware:switch\n  - network:True\n  - case:{switchcase.lower()}\n  - name:{switchcase.lower()}\n  - os:none\n  - priority:none\n  - grn_server:False\n  - location:{truck.lower()}\n  - tournament:{tournamentID}\n  - bolt6tfg:{sLocation}\n  - hole:{hole}"       
+            devices = devices + myobj
         k = k + 1
     i = i + 1
 
-f = open('conf.yaml','a')
-f.write(yamltemplate)
-f.close()
+with open(f'slxddp2snmpconf.yaml', 'w',) as f :
+    f.write(devices)
